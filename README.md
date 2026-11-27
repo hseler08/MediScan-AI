@@ -125,7 +125,7 @@ including the impact of image quality on document
 extraction and challenges associated with retrieving
 relevant historical information.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Backend
 
